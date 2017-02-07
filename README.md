@@ -1,6 +1,6 @@
 # TEAM-MO-ARE
 
-Title: Computer Based Ordering System
+Title: Reservation System
 
 In our project, we come up to an computer based ordering system because
 some restaurants are using pen and a paper to take an order to the customers.
